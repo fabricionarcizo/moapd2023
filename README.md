@@ -50,7 +50,7 @@ The apps presented in the lectures and those developed in the exercise sessions 
 |--|--|--|
 | 01 | 31/01/2023 | [Getting Started](lecture01) |
 | 02 | 07/02/2023 | [Introduction to Kotlin for Mobile Development](lecture02) |
-| 03 | 14/02/2023 | App Resources and Basic User Interfaces |
+| 03 | 14/02/2023 | [App Resources and Basic User Interfaces](lecture03) |
 | 04 | 21/02/2023 | Advanced User Interfaces |
 | 05 | 28/02/2023 | Flexible Data View and Threads |
 | 06 | 07/03/2023 | Android Backend with Google Firebase |
