@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_border_24"
+        android:title="@string/first_fragment_title"/>
+    <item
+        android:id="@+id/second_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_half_24"
+        android:title="@string/second_fragment_title"/>
+    <item
+        android:id="@+id/third_fragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="@string/third_fragment_title"/>
+</menu>

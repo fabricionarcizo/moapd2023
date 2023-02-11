@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Fragments</string>
+    <string name="first_fragment_label">Copenhagen</string>
+    <string name="first_fragment_title">Fragment 1</string>
+    <string name="second_fragment_label">Barcelona</string>
+    <string name="second_fragment_title">Fragment 2</string>
+    <string name="third_fragment_label">Edinburgh</string>
+    <string name="third_fragment_title">Fragment 3</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+</resources>

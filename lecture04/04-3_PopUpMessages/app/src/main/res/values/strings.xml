@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pop-Up Messages</string>
+    <string name="toast_button">Show Toast</string>
+    <string name="snack_bar_button">Show SnackBar</string>
+</resources>
