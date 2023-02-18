@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPager</string>
+    <string name="tab_media">Media</string>
+    <string name="tab_shop">Shop</string>
+    <string name="tab_social">Social</string>
+    <string name="tab_travel">Travel</string>
+    <string name="tab_universal">Universal</string>
+    <string name="fragment_text">Fragment\nExample</string>
+    <string name="content_description_image">Image</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+</resources>
