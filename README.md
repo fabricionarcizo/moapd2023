@@ -53,7 +53,7 @@ The apps presented in the lectures and those developed in the exercise sessions 
 | 03 | 14/02/2023 | [App Resources and Basic User Interfaces](lecture03) |
 | 04 | 21/02/2023 | [Advanced User Interfaces](lecture04) |
 | 05 | 28/02/2023 | [Flexible Data View and Threads](lecture05) |
-| 06 | 07/03/2023 | Android Backend with Google Firebase |
+| 06 | 07/03/2023 | [Android Backend with Google Firebase](lecture06) |
 | 07 | 14/03/2023 | Data and File Storage |
 | 08 | 21/03/2023 | Cloud Storage on Android |
 | 09 | 28/03/2023 | Android Location-Aware |
