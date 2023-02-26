@@ -1,4 +1,4 @@
-# Lecture #06  (Android Backend with Google Firebase)
+# Lecture #06 (Android Backend with Google Firebase)
 
 This folder has the Android projects used during Lecture #06 of the Mobile App Development BSc. 2023 course **on March 7th, 2023**.
 
