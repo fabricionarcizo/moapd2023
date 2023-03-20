@@ -56,7 +56,7 @@ The apps presented in the lectures and those developed in the exercise sessions 
 | 06 | 07/03/2023 | [Android Backend with Google Firebase](lecture06) |
 | 07 | 14/03/2023 | [Data and File Storage](lecture07) |
 | 08 | 21/03/2023 | [Cloud Storage on Android](lecture08) |
-| 09 | 28/03/2023 | Android Location-Aware |
+| 09 | 28/03/2023 | [Android Location-Aware](lecture09) |
 | 10 | 11/04/2023 | Android Multimedia and Machine Learning |
 | 11 | 18/04/2023 | Android Sensors |
 | 12 | 25/04/2023 | Jetpack Compose |
