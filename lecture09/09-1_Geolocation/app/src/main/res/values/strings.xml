@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geolocation</string>
+    <string name="latitude_text">Latitude</string>
+    <string name="longitude_text">Longitude</string>
+    <string name="time_text">Time</string>
+    <string name="address_text">Address</string>
+    <string name="content_description_location">Location</string>
+</resources>
