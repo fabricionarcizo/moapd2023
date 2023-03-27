@@ -87,3 +87,11 @@ lint/tmp/
 
 # macOS hidden files
 .DS_Store
+
+# OpenCV dependencies
+opencv-4.7.0/
+
+# Pre-trained models
+*.caffemodel
+*.prototxt
+
