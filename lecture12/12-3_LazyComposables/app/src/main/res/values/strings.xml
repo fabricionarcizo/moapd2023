@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lazy Composables</string>
+    <string name="content_description_media">Media</string>
+    <string name="content_description_thumb_up">Thumb Up button</string>
+    <string name="content_description_favorite">Favorite button</string>
+    <string name="content_description_share">Share button</string>
+    <string name="title">%s</string>
+    <string name="secondary_text"><i>Birth year: %d\nCountry: %s</i></string>
+    <string name="supporting_text">%s</string>
+    <string name="lorem_ipsum_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</string>
+</resources>
