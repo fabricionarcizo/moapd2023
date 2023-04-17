@@ -59,7 +59,7 @@ The apps presented in the lectures and those developed in the exercise sessions 
 | 09 | 28/03/2023 | [Android Location-Aware](lecture09) |
 | 10 | 11/04/2023 | [Android Multimedia and Machine Learning](lecture10) |
 | 11 | 18/04/2023 | [Android Sensors](lecture11) |
-| 12 | 25/04/2023 | Jetpack Compose |
+| 12 | 25/04/2023 | [Jetpack Compose](lecture12) |
 | 13 | 02/05/2023 | Shrink, Obfuscate, and Optimize an Android App |
 | 14 | 09/05/2023 | Guest Lecturer #01 (Marcel Barboza from Mother Gaia Studio) |
 
