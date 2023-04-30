@@ -1,0 +1,2 @@
+# Lecture #13  (Shrink, Obfuscate, and Optimize)
+The source codes used during Lecture #13 of the Mobile App Development BSc. 2022 course **on May 3rd, 2022** are available only in the slides. We will study applying _reverse engineering_ in Android apps for academic and learning purposes. Therefore, we cannot share any source code in this GitHub repository.
